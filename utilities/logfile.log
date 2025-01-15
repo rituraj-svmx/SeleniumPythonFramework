@@ -1,0 +1,3 @@
+2025-01-15 12:15:53,441 : INFO : test_file_upload) : file downloaded successfully
+2025-01-15 12:16:01,297 : INFO : test_file_upload) : file uploaded successfully
+2025-01-15 12:16:01,425 : INFO : test_file_upload) : Actual price is 999 equal to updated price 999
